@@ -1,0 +1,7 @@
+streamlit
+streamlit-mic-recorder
+openai-whisper
+google-generativeai
+python-dotenv
+pyttsx3
+pydub

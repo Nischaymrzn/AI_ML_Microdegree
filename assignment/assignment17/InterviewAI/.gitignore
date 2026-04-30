@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+outputs/audio/*
+outputs/transcripts/*
+!outputs/audio/.gitkeep
+!outputs/transcripts/.gitkeep
+.streamlit/*
+!.streamlit/config.toml
+.DS_Store
